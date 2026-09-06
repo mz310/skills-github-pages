@@ -1,1 +1,4 @@
-theme: minima
+theme: minima,
+title: "hi",
+author:"Zorigt",
+description:"idk"
